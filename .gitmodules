@@ -1,4 +1,4 @@
 [submodule "x_child"]
 	path = x_child
 	url = git@github.com:carlcook/submodulechild.git
-	branch = feature1
+	branch = master
